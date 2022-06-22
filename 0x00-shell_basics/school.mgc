@@ -1,2 +1,4 @@
-0 string SCHOOL school data
+cat >school.mgc
+0 string SCHOOL School data
 !:mime School
+
